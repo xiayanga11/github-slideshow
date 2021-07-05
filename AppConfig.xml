@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<server>
+
+<ServerOpen value="1"/>
+
+<ClientVersion value="5.0.0.16"/>
+
+<DebugVersion value=""/>
+
+<ServerNotice value="sorry"/>
+
+<GameVersion value="16777241"/>
+
+<ActivityNoticeURL value="http://web.xjlyyzx.cn:85/"/>
+
+<ShareURL value="http://web.xjlyyzx.cn:85/"/>
+
+<app_down_url value="http://down.placfs.cn:81/"/>
+
+<FindAccountNotice value=""/>
+
+<Logon port="8300" ip="127.0.0.1"/>
+
+<LogonVerChk port="8300" ip="127.0.0.1"/>
+
+<AbDownloadUrl value="http://down.placfs.cn:81/"/>
+
+<VerifyCode_GETTIME_URL value="www.VerifyCode_GETTIME_URL.com"/>
+
+<VerifyCode_PHONE_VALIDATE_URL value="www.VerifyCode_PHONE_VALIDATE_URL.com"/>
+
+<Interface_URL value="http://web.xjlyyzx.cn:85/WS/MobileInterface.ashx"/>
+
+<Captcha_URL value="http://web.xjlyyzx.cn:85/"/>
+
+<sh_version value="0"/>
+
+<lk_version value="0"/>
+
+<wzq_version value="0"/>
+
+<fqzs_version value="0"/>
+
+<pdk_status value="0"/>
+
+<AppStore_DownLoad value=""/>
+
+</server>
